@@ -21,7 +21,7 @@ if menu=='Home':
         height=400,
      )
     st.write('Harvesting machines play a crucial role in modern agriculture, significantly enhancing the efficiency and speed of crop collection. From large-scale farms to smaller operations, various types of harvesting equipment are designed to suit different crops and farming practices. In this blog, we’ll explore the different types of harvesting machines and their specific uses. Harvesting includes reaping or cutting, threshing or sifting grains from the chaff. Harvesting done with hands is a very time-consuming and tiring task. In addition, one needs to take extra care while collecting crops as fragile crops can be accidentally ignored and crushed. Also, working long hours in the field has its own problems, as farmers must work even in bad weather conditions. With the most adaptable harvesting machinery, the harvesting process can become less tiring and more time-saving and productive. Although there is no fixed classification of harvesting machines, here are few types used widely in farming.')
-    st.title('-------------About Farmers--------------')
+    st.title('About Farmers')
     st.image("https://www.openaccessgovernment.org/wp-content/uploads/2021/02/dreamstime_xxl_183417536.jpg")
    
     st.write("India is a country of farmers. About 70 to 80 percent of the population is still directly or indirectly dependent on agriculture, That is why a great country like India is known as an agricultural country in the world. Farmer is an important part of our life, Indian farmer fulfills the basic needs of 125 crore people in the country. Farmers are most important in terms of the development of the nation. Farmers are the backbone of our country and society, on whose strength our economy stands.")
